@@ -10,15 +10,15 @@ import popular_08 from'../assets/images/popular-08.jpg'
 
 
 const MostpopularData = [
-    {id:"most_popular_item_0",   image:popular_01 ,title:"Fortnite",    category:"Sandbox",    rate:"3.8",  download:"2.3M"  },
-    {id:"most_popular_item_0",   image:popular_02 ,title:"Pubg"     ,   category:"Stream-X" ,  rate:"4.8",  download:"1.1M"  },
-    {id:"most_popular_item_2",   image:popular_03 ,title:"Dota2"     ,  category:"Legendary",  rate:"2.7",  download:"5.3M"  },
-    {id:"most_popular_item_3",   image:popular_04 ,title:"Cs-go"     ,  category:"Battle S" ,  rate:"3.9",  download:"6.1M"  },
-    {id:"most_popular_item_4",   image:popular_05 ,title:"MinCraft"  ,  category:"Legendary",  rate:"1.8",  download:"29.3M" },
-    {id:"most_popular_item_5",   image:popular_06 ,title:"Eagles Fly",  category:"Matrix"   ,  rate:"2.6",  download:"10.1M" },
-    {id:"most_popular_item_6",   image:popular_07 ,title:"Warface"   ,  category:"Max 3D"   ,  rate:"4.8",  download:"2.3M"  },
-    {id:"most_popular_item_7",   image:popular_08 ,title:"Warcraft"  ,  category:"Legand"   ,  rate:"4.8",  download:"2.3M"  },
+{id:"most_popular_item_0",   image:popular_01 ,title:"Fortnite",    category:"Sandbox",    rate:"3.8",  download:"2.3M"  },
+{id:"most_popular_item_0",   image:popular_02 ,title:"Pubg"     ,   category:"Stream-X" ,  rate:"4.8",  download:"1.1M"  },
+{id:"most_popular_item_2",   image:popular_03 ,title:"Dota2"     ,  category:"Legendary",  rate:"2.7",  download:"5.3M"  },
+{id:"most_popular_item_3",   image:popular_04 ,title:"Cs-go"     ,  category:"Battle S" ,  rate:"3.9",  download:"6.1M"  },
+{id:"most_popular_item_4",   image:popular_05 ,title:"MinCraft"  ,  category:"Legendary",  rate:"1.8",  download:"29.3M" },
+{id:"most_popular_item_5",   image:popular_06 ,title:"Eagles Fly",  category:"Matrix"   ,  rate:"2.6",  download:"10.1M" },
+{id:"most_popular_item_6",   image:popular_07 ,title:"Warface"   ,  category:"Max 3D"   ,  rate:"4.8",  download:"2.3M"  },
+{id:"most_popular_item_7",   image:popular_08 ,title:"Warcraft"  ,  category:"Legand"   ,  rate:"4.8",  download:"2.3M"  },
 ] 
 
 
-export default MostpopularData
+export default MostpopularData   

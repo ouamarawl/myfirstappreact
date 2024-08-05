@@ -9,7 +9,7 @@ const Card = (props) => {
       <div className="card-wrapper">
         <img
           className="most-popular-item-image"
-          src={props.image}
+          src={props.image}   
           alt="Popular Item"
         />
 
