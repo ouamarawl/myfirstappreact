@@ -2,7 +2,7 @@ import'./Buttons.css'
 
 const  PrimaryButtons = (props) => {
   return (
-    <div className='button'primary-btn>
+    <div className='button primary-btn'>
         <a href='/#'>{props.children}</a>
     </div>
   )

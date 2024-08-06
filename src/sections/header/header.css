@@ -1,3 +1,35 @@
-.cyborg-navbar{
-    min-height: 100px;
+.header {
+  text-align: center;
+  margin-bottom: 12px;
+  background-color: var(--color-bg-body);
 }
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.Navbar img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+.list {
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+#hm{
+    color: var(--color_primary);
+}
+
+.list a {
+    margin:15px ;
+    text-decoration: none;
+    color: gray;
+}
+.list a:hover {
+    color: var( --color_primary);
+}
+
