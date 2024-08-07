@@ -4,8 +4,6 @@
     padding: calc(var(--pading-primary)/2);
     margin: calc(var(--margin-primary)/5);
 }
-
-
 .most-popular-item {
     flex: 1 25%
 }
@@ -14,7 +12,6 @@
     border-radius: calc(var(--border-radius-primary)/4);
     margin-bottom: calc(var(--pading-primary)/2);
 }
-
 .most-popular-item-content {
     display: flex;
     justify-content: space-between;
