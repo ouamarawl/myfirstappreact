@@ -1,7 +1,7 @@
 import "./header.css";
 import logo from "../../assets/images/logo.png";
 import Prifile_header from "../../assets/images/profile-header.jpg";
-
+import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <div className="header">
@@ -26,16 +26,13 @@ const Header = () => {
           </button>
         </div>
         <div className="list">
-          <a id="hm" href="/#">
-            home
-          </a>
+          <Link to="/" >home</Link>
+         
           <a href="/#">brows</a>
           <a href="/#">details</a>
           <button id="button-pr">
             {" "}
-            <a id="a-pr" href="/#">
-              profile
-            </a>{" "}
+            <Link to="/Profile" >home</Link>{" "}
             <img id="img_btn" src={Prifile_header} alt="lg" />{" "}
           </button>
         </div>
